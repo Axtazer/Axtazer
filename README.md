@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @Axtazer
+# 👋 Salut, je suis Axtazer !
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Étudiant+Cybersécurité+%26+IT;Passionné+d'Infrastructure+Réseau;Auto-hébergement+%26+Solutions+Libres" alt="Typing SVG" />
