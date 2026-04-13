@@ -21,6 +21,7 @@
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Networking](https://img.shields.io/badge/Réseau-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)
+[![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white)](https://crowdin.com/profile/axtazer)
 
 ## 📊 GitHub Stats
 
